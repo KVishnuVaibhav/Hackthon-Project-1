@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+    flex-direction: column;
+    /* width: 100%; */
+    text-align: center;
+    
+}
+
+
+
+.cont1 {
+    width: 100vw;
+    display: flex;
+    height: 100vh;
+    justify-content: space-between;
+    margin-bottom: 5rem;
+    align-items: center;
+
+} 
+
+
+
+img{
+    width: 30%;
+    height: 70% ;
+}
